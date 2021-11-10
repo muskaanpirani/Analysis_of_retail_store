@@ -15,4 +15,4 @@ Steps to execute:
 5. Open Power BI website and Login with your credentials
 6. Download the report in PDF format.
 
-Note: As one vizual is not supported in exported version, it won't show it.
+Note: As one vizual is not supported in exported version, that won't be shown in the report.
